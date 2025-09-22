@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.site-header h1 a {
+    color: #333;
+    text-decoration: none;
+}
+
+.post {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.post h3 a {
+    color: #007BFF;
+    text-decoration: none;
+}
+.post h3 a:hover {
+    text-decoration: underline;
+}
+
+.date {
+    color: #6c757d;
+    font-size: 0.9em;
+}
